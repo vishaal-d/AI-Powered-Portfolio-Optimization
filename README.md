@@ -31,15 +31,15 @@ An AI-based stock analysis system that clusters stocks, evaluates risk, performs
 
 Generated visualizations are stored in the `output/` folder.
 
-| 📊 Chart                              | 📸 Preview                            |
-| ------------------------------------- | ------------------------------------- |
-| **Risk Allocation Pie Chart** 🥧      | ![Risk Allocation](Output/1.png)      |
-| **Stock Clustering** 🔍               | ![Stock Clustering](Output/2.png)     |
-| **Stock Sentiment Analysis** 📰       | ![Sentiment Analysis](Output/3.png)   |
-| **Volatility Trends** 📈              | ![Volatility Trends](Output/4.png)    |
-| **Stock Returns Comparison** 🔄       | ![Stock Returns](Output/5.png)        |
-| **AI Stock Recommendation** ✅        | ![Stock Recommendation](Output/6.png) |
-| **Real-time Sentiment Monitoring** ⏳ | ![Sentiment Tracking](Output/7.png)   |
+| 📊 Chart                           | 📸 Preview                                     |
+| ---------------------------------- | ---------------------------------------------- |
+| **Portfolio Allocation Pie Chart** | ![Portfolio Allocation](Output/1.png)          |
+| **Stock Risk Comparison**          | ![Stock Risk Comparison](Output/2.png)         |
+| **Cumulative Returns of Stock**    | ![Cumulative Returns of Stock](Output/3.png)   |
+| **Stock Correlation Heat Map**     | ![Stock Correlation Heat Map](Output/4.png)    |
+| **Distribution of Stock Returns**  | ![Distribution of Stock Returns](Output/5.png) |
+| **Stock Volatility**               | ![Stock Volatility](Output/6.png)              |
+| **Market Cap Allocation**          | ![Market Cap Allocation](Output/7.png)         |
 
 ---
 
