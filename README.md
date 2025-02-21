@@ -9,8 +9,6 @@ An AI-based stock analysis system that clusters stocks, evaluates risk, performs
 ✔️ **Stock Data Analysis** using Yahoo Finance 📈  
 ✔️ **Risk & Volatility Calculation** (Standard Deviation of Returns)  
 ✔️ **AI-Driven Clustering** using K-Means 🤖  
-✔️ **Sentiment Analysis** of Stock News using TextBlob 📰  
-✔️ **Real-time Sentiment Tracking & Alerts** 🚨  
 ✔️ **Visualizations** for Risk Allocation & Clustering 🎨
 
 ---
@@ -22,8 +20,6 @@ An AI-based stock analysis system that clusters stocks, evaluates risk, performs
 - **yFinance** for stock market data 📈
 - **Matplotlib & Seaborn** for visualizations 🎨
 - **Scikit-learn** for clustering 🤖
-- **TextBlob** for sentiment analysis 📰
-- **Requests** for fetching stock news from APIs 🌍
 
 ---
 
@@ -48,8 +44,8 @@ Generated visualizations are stored in the `output/` folder.
 1️⃣ **Clone the repo**
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/vishaal-d/AI-Powered-Portfolio-Optimization.git
+cd AI-Powered-Portfolio-Optimization
 ```
 
 2️⃣ **Install dependencies**
