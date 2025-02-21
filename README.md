@@ -33,13 +33,13 @@ Generated visualizations are stored in the `output/` folder.
 
 | 📊 Chart                              | 📸 Preview                            |
 | ------------------------------------- | ------------------------------------- |
-| **Risk Allocation Pie Chart** 🥧      | ![Risk Allocation](output/1.png)      |
-| **Stock Clustering** 🔍               | ![Stock Clustering](output/2.png)     |
-| **Stock Sentiment Analysis** 📰       | ![Sentiment Analysis](output/3.png)   |
-| **Volatility Trends** 📈              | ![Volatility Trends](output/4.png)    |
-| **Stock Returns Comparison** 🔄       | ![Stock Returns](output/5.png)        |
-| **AI Stock Recommendation** ✅        | ![Stock Recommendation](output/6.png) |
-| **Real-time Sentiment Monitoring** ⏳ | ![Sentiment Tracking](output/7.png)   |
+| **Risk Allocation Pie Chart** 🥧      | ![Risk Allocation](Output/1.png)      |
+| **Stock Clustering** 🔍               | ![Stock Clustering](Output/2.png)     |
+| **Stock Sentiment Analysis** 📰       | ![Sentiment Analysis](Output/3.png)   |
+| **Volatility Trends** 📈              | ![Volatility Trends](Output/4.png)    |
+| **Stock Returns Comparison** 🔄       | ![Stock Returns](Output/5.png)        |
+| **AI Stock Recommendation** ✅        | ![Stock Recommendation](Output/6.png) |
+| **Real-time Sentiment Monitoring** ⏳ | ![Sentiment Tracking](Output/7.png)   |
 
 ---
 
